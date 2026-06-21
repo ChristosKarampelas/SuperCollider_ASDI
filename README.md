@@ -14,10 +14,10 @@ Teardropish
 	•	\string: Multi-osc (Saw + Pulse) με SinOsc vibrato + λίγο BrownNoise + RLPF + FreeVerb. Προσομοιώνει layered strings με κίνηση.
 	•	\air: PinkNoise + steep filtering + πολύ long Env.asr.
 
-3. Patterns & δομή (blocks 5-6)
+4. Patterns & δομή (blocks 5-6)
 TempoClock στα 72 BPM (κοντά στο relaxed feel του original). Pdef(\piece) με Ppar για παράλληλα layers, Pseq/Pwrand/Pwhite για επαναλήψεις και οργανική παραλλαγή (τα hats παίζουν probabilistic για να μην ακούγονται μηχανικά).
 
-4. Master bus (Ndef \mix)
+5. Master bus (Ndef \mix)
 LeakDC + LPF + Compander + Limiter στο τέλος. Ελεγχος δυναμικής και προστασία από clipping σε performances.
 
 Πηγές & αναφορές (όλες πραγματικές)
